@@ -1,6 +1,6 @@
-# BI_EjercicioNavidenio
+# CSV2TDE Converter
 
-tdeConverter is a program that converts CSV and XLS format files to TDE files (Tableau format). It infers the type of values of the columns in the given file so there is no need to give this information manually. An important requirement to get it working is to format the inputfile with the first row indicating the names of each column.
+This is a program that converts CSV and XLS format files to TDE files (Tableau format). It infers the type of values of the columns in the given file so there is no need to give this information manually. An important requirement to get it working is to format the inputfile with the first row indicating the names of each column.
 
 
 Requirements:

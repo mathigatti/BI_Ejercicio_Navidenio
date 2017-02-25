@@ -1,3 +1,3 @@
-# BI_EjercicioNavidenio
+# CSV2TDE Converter
 
 Here are TDE files saved.
